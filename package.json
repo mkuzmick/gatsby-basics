@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-basics",
+  "version": "1.0.0",
+  "description": "basic gatsby template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkuzmick/gatsby-basics.git"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "author": "Marlon Kuzmick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkuzmick/gatsby-basics/issues"
+  },
+  "homepage": "https://github.com/mkuzmick/gatsby-basics#readme",
+  "dependencies": {
+    "gatsby": "^2.17.11",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
